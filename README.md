@@ -1,6 +1,6 @@
 # ETH Functions Frontend
 
-A decentralized application (DApp) that allows users to interact with an Ethereum smart contract to deposit, withdraw, pause, and resume operations. The frontend is built with React and Next.js, and the smart contract is written in Solidity.
+A decentralized application (DApp) that allows users to interact with an Ethereum smart contract to deposit, withdraw, pause, and resume operations. The frontend is built with React, and the smart contract is written in Solidity.
 
 ## Features
 
